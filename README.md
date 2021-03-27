@@ -1,7 +1,9 @@
-## Code Refactor
+## Code Refactor Challenge 1
 
 ## Purpose
-Challenge 1 to correct code and make sure all links are working
+- Fixing all links
+- Adding semantic elements
+- correct deployment
 
 ## Built With
 * HTML
