@@ -1,4 +1,4 @@
-# Run Buddy
+## Code Refactor
 
 ## Purpose
 Challenge 1 to correct code and make sure all links are working
